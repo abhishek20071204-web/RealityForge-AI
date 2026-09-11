@@ -1,0 +1,7 @@
+{
+  "name": "REALITYFORGE AI",
+  "description": "World-class futuristic decision intelligence and future-simulation platform. Simulate before you build across branching futures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

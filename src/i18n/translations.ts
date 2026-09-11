@@ -1,0 +1,166 @@
+export const translations = {
+  en: {
+    brand: 'REALITYFORGE AI',
+    tagline: 'Simulate Before You Build',
+    subtitle: 'Advanced Decision Intelligence & Future-Simulation Operating System',
+    heroHead: 'BUILD A SCENARIO.\nCHANGE THE VARIABLES.\nSIMULATE THE FUTURE.',
+    heroSub: 'Construct virtual digital worlds, model causal butterfly effects across 2026–2050, battle competing strategies, and make high-stakes decisions with explainable AI.',
+    createSimulation: 'Create Simulation',
+    exploreDemo: 'Explore Crisis Demo',
+    navHome: 'Home',
+    navStudio: 'Simulation Studio',
+    navBuilder: 'Scenario Builder',
+    navWorldModel: 'Digital World Model',
+    navWhatIf: 'What-If Lab',
+    navTimeline: 'Future Timeline',
+    navMultiFuture: 'Multi-Future Generator',
+    navStrategyBattle: 'Strategy Battle',
+    navCausalGraph: 'Causal Intelligence',
+    navCopilot: 'AI Decision Copilot',
+    navTimeMachine: 'Future Time Machine',
+    navImpactRadar: 'Impact Radar',
+    navFutureFork: 'Future Fork Tree',
+    navHistory: 'History & Forks',
+    navSettings: 'Settings',
+
+    // Quick Prompts
+    quickPromptTitle: 'Or initiate with natural language hypothesis:',
+    prompt1: 'Create a city with 1 million people and simulate traffic for the next 10 years.',
+    prompt2: 'What happens if a company increases automation by 30%?',
+    prompt3: 'Compare two strategies for reducing urban traffic.',
+
+    // Provenance
+    realData: 'REAL DATA',
+    simulatedData: 'SIMULATED DATA',
+    userInput: 'USER INPUT',
+    aiAssumption: 'AI-GENERATED ASSUMPTION',
+    assumptionsUncertainty: 'Assumptions & Uncertainty Disclosure',
+    notCertainFactNotice: 'Modeled scenario projection. Not a deterministic certainty.',
+
+    // Multi-Futures
+    optimistic: 'OPTIMISTIC',
+    optimisticDesc: 'Breakthrough adoption, rapid clean transition, high civic efficiency',
+    realistic: 'REALISTIC',
+    realisticDesc: 'Current trajectory, standard regulatory friction and linear growth',
+    highRisk: 'HIGH RISK',
+    highRiskDesc: 'Extreme congestion, resource bottlenecking, climate/economic shock',
+    userDefined: 'USER DEFINED',
+    userDefinedDesc: 'Dynamic live response from your customized What-If variables',
+
+    // Metrics
+    systemStress: 'System Stress',
+    riskLevel: 'Risk Level',
+    resourceDemand: 'Resource Demand',
+    confidenceScore: 'Confidence Level',
+    economicIndex: 'Economic Vitality',
+    environmentalQuality: 'Environmental Health',
+    socialWellbeing: 'Social Wellbeing',
+    infrastructureHealth: 'Infrastructure Index',
+
+    // Strategy Battle
+    strategyBattleTitle: 'Strategic Strategy Battle Arena',
+    strategyBattleSub: 'Simulate competing interventions head-to-head under unified causal laws.',
+    strategyA: 'Strategy A',
+    strategyB: 'Strategy B',
+    runBattle: 'Simulate Head-to-Head',
+    explainableVerdict: 'Explainable AI Strategic Verdict',
+    tradeOffAnalysis: 'Multi-Dimensional Trade-Off Matrix',
+
+    // Actions
+    explain: 'Explain Mechanism',
+    saveCheckpoint: 'Save Checkpoint',
+    forkFuture: 'Fork from Here',
+    resetVariables: 'Reset to Baseline',
+    sensitivityAnalysis: 'Sensitivity Analysis',
+    anomalyDetection: 'Run Anomaly Detection',
+    exportScenario: 'Export Scenario (JSON)',
+    importScenario: 'Import Scenario',
+
+    // Language
+    languageLabel: 'Language / மொழி',
+    english: 'English',
+    tamil: 'தமிழ்',
+  },
+  ta: {
+    brand: 'ரியாலிட்டிஃபோர்ஜ் AI',
+    tagline: 'உருவாக்கும் முன் உருவகப்படுத்துங்கள்',
+    subtitle: 'மேம்பட்ட முடிவெடுக்கும் நுண்ணறிவு மற்றும் எதிர்கால உருவகப்படுத்துதல் தளம்',
+    heroHead: 'காட்சியை உருவாக்குங்கள்.\nமாறிகளை மாற்றுங்கள்.\nஎதிர்காலத்தை உருவகப்படுத்துங்கள்.',
+    heroSub: 'மெய்நிகர் டிஜிட்டல் உலகங்களை கட்டமைக்கவும், 2026–2050 வரை காரண-காரிய விளைவுகளை மாதிரியாக்கவும், உத்திகளை ஒப்பிட்டு துல்லியமான முடிவுகளை எடுக்கவும்.',
+    createSimulation: 'உருவகப்படுத்துதலைத் தொடங்கு',
+    exploreDemo: 'முன்மாதிரி டெமோவை காண்க',
+    navHome: 'முகப்பு',
+    navStudio: 'ஸ்டுடியோ முனையம்',
+    navBuilder: 'காட்சி உருவாக்குநர்',
+    navWorldModel: 'டிஜிட்டல் உலக மாதிரி',
+    navWhatIf: 'என்ன-நடக்கும் கூடம் (What-If)',
+    navTimeline: 'எதிர்கால காலக்கோடு',
+    navMultiFuture: 'பல்வேறு எதிர்காலங்கள்',
+    navStrategyBattle: 'உத்திகள் ஒப்பீடு சமர்',
+    navCausalGraph: 'காரண-காரிய பிணையம்',
+    navCopilot: 'AI முடிவு வழிகாட்டி',
+    navTimeMachine: 'எதிர்கால கால இயந்திரம்',
+    navImpactRadar: 'தாக்க ரேடார்',
+    navFutureFork: 'கிளைக்கும் எதிர்கால மரம்',
+    navHistory: 'வரலாறு & சேமிப்புகள்',
+    navSettings: 'அமைப்புகள்',
+
+    // Quick Prompts
+    quickPromptTitle: 'அல்லது நேரடி கேள்வியுடன் உருவகப்படுத்துங்கள்:',
+    prompt1: '10 லட்சம் மக்கள் கொண்ட நகரத்தை உருவாக்கி அடுத்த 10 ஆண்டுகளுக்கான போக்குவரத்தை உருவகப்படுத்துங்கள்.',
+    prompt2: 'ஒரு நிறுவனம் தானியங்கிமயமாக்கலை 30% அதிகரித்தால் என்ன நடக்கும்?',
+    prompt3: 'நகர போக்குவரத்தைக் குறைக்க இரண்டு உத்திகளை ஒப்பிடுங்கள்.',
+
+    // Provenance
+    realData: 'உண்மையான தரவு',
+    simulatedData: 'உருவகப்படுத்தப்பட்ட தரவு',
+    userInput: 'பயனர் உள்ளீடு',
+    aiAssumption: 'AI கணிக்கப்பட்ட அனுமானம்',
+    assumptionsUncertainty: 'அனுமானங்கள் & நிச்சயமற்ற தன்மை அறிக்கை',
+    notCertainFactNotice: 'இது மாதிரி கணிப்பு மட்டுமே. நிச்சயமான உண்மை அல்ல.',
+
+    // Multi-Futures
+    optimistic: 'நம்பிக்கையான எதிர்காலம்',
+    optimisticDesc: 'புதிய தொழில்நுட்ப முன்னேற்றம், தூய ஆற்றல் மற்றும் குறைந்த மாசு',
+    realistic: 'யதார்த்த எதிர்காலம்',
+    realisticDesc: 'தற்போதைய போக்கு மற்றும் வழக்கமான வளர்ச்சிப் பாதை',
+    highRisk: 'அதிக ஆபத்தான எதிர்காலம்',
+    highRiskDesc: 'நெரிசல் நெருக்கடி, வளப் பற்றாக்குறை மற்றும் தீவிர அழுத்தம்',
+    userDefined: 'பயனர் மாற்றியமைத்த எதிர்காலம்',
+    userDefinedDesc: 'நீங்கள் மாற்றிய மாறிகளின் உடனடி நேரடி கணிப்பு',
+
+    // Metrics
+    systemStress: 'அமைப்பு அழுத்தம்',
+    riskLevel: 'ஆபத்து நிலை',
+    resourceDemand: 'வள தேவை',
+    confidenceScore: 'நம்பகத்தன்மை அளவு',
+    economicIndex: 'பொருளாதார வளம்',
+    environmentalQuality: 'சுற்றுச்சூழல் தரம்',
+    socialWellbeing: 'சமூக நல்வாழ்வு',
+    infrastructureHealth: 'கட்டமைப்பு தரம்',
+
+    // Strategy Battle
+    strategyBattleTitle: 'உத்திகள் ஒப்பீட்டு சமர் அரங்கம்',
+    strategyBattleSub: 'இருவேறு கொள்கை உத்திகளை ஒரே காரண விதிகளின் கீழ் உருவகப்படுத்துங்கள்.',
+    strategyA: 'உத்தி A',
+    strategyB: 'உத்தி B',
+    runBattle: 'நேருக்கு நேர் உருவகப்படுத்து',
+    explainableVerdict: 'விளக்கக்கூடிய AI உத்தி தீர்ப்பு',
+    tradeOffAnalysis: 'பல்வேறு பரிமாண வர்த்தக பகுப்பாய்வு',
+
+    // Actions
+    explain: 'காரணத்தை விளக்கு',
+    saveCheckpoint: 'சேமிப்பு புள்ளி',
+    forkFuture: 'இங்கிருந்து கிளை பிரி',
+    resetVariables: 'இயல்பு நிலைக்கு மீட்டமை',
+    sensitivityAnalysis: 'உணர்திறன் பகுப்பாய்வு',
+    anomalyDetection: 'முரண்பாடுகளைக் கண்டறி',
+    exportScenario: 'ஏற்றுமதி (JSON)',
+    importScenario: 'இறக்குமதி செய்',
+
+    // Language
+    languageLabel: 'மொழி / Language',
+    english: 'English',
+    tamil: 'தமிழ்',
+  },
+};
